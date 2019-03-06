@@ -1,0 +1,18 @@
+.component-wrapper{
+    background-color: black;
+    height: 100%;
+    padding: 10px;
+    position: relative;
+}
+.auth-background{
+    height: 100%;
+    background: url("/assets/finger_black.gif");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.warn{
+text-align: center;
+margin-top:40px;
+}
